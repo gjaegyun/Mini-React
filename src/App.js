@@ -1,10 +1,10 @@
 import React from 'react';
-import CoinToss from './Coin';
+import Coin from './Coin';
 
 function App() {
   return (
     <div>
-      <CoinToss />
+      <Coin />
     </div>
   );
 }
